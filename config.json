@@ -1,0 +1,16 @@
+{
+	"url": "",
+	"params": {
+		"r": "",
+		"freq": "",
+		"ps": "",
+		"px": ""
+	},
+	"start_year": 0,
+	"end_year": 0,
+
+	"output_file_name": "",
+	"trade_flow": "",
+	"detailed_classification": 0,
+	"keep_raw": 1
+}
